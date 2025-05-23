@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "nombre": "Alimento Seco para Cachorros Razas Pequeñas",
+    "descripcion": "Fórmula especializada para cachorros de razas pequeñas hasta 1 año. Favorece el crecimiento saludable.",
+    "precio": 28.99,
+    "peso": "3 kg",
+    "categoria": "Alimento Perro",
+    "imagen": "assets/images/productos/producto-1.jpg",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 2,
+    "nombre": "Alimento Seco para Perros Adultos Razas Grandes",
+    "descripcion": "Soporte articular y nutrición adaptada para perros adultos de razas grandes.",
+    "precio": 45.75,
+    "peso": "15 kg",
+    "categoria": "Alimento Perro",
+    "imagen": "assets/images/productos/producto-2.jpg",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 3,
+    "nombre": "Alimento Húmedo para Gatos Adultos Sabor Pollo (Pouch)",
+    "descripcion": "Delicioso alimento húmedo en sobre, receta con pollo en salsa.",
+    "precio": 1.50,
+    "peso": "85g",
+    "categoria": "Alimento Gato",
+    "imagen": "assets/images/productos/producto-3.jpg",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 4,
+    "nombre": "Alimento Húmedo para Gatos Senior Sabor Salmón (Lata)",
+    "descripcion": "Lata de alimento húmedo formulado para gatos mayores, con salmón.",
+    "precio": 2.20,
+    "peso": "156g",
+    "categoria": "Alimento Gato",
+    "imagen": "assets/images/productos/producto-4.jpg",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 5,
+    "nombre": "Snacks Dentales para Perros Medianos",
+    "descripcion": "Premios masticables que ayudan a reducir el sarro y refrescar el aliento.",
+    "precio": 9.50,
+    "peso": "250g",
+    "categoria": "Snacks Perro",
+    "imagen": "assets/images/productos/producto-5.jpg",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 6,
+    "nombre": "Malt Suave para Gatos (Pasta)",
+    "descripcion": "Pasta para gatos que ayuda a prevenir la formación de bolas de pelo y facilita su tránsito.",
+    "precio": 6.80,
+    "peso": "100g",
+    "categoria": "Higiene Gato",
+    "imagen": "assets/images/productos/producto-6.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 7,
+    "nombre": "Juguete Pelota de Tenis para Perro (Pack x3)",
+    "descripcion": "Pelotas resistentes ideales para lanzar y buscar. No tóxicas.",
+    "precio": 5.90,
+    "peso": "200g",
+    "categoria": "Juguetes Perro",
+    "imagen": "assets/images/productos/producto-7.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 8,
+    "nombre": "Ratón de Peluche con Catnip para Gato",
+    "descripcion": "Juguete suave con hierba gatera para estimular el juego del gato.",
+    "precio": 3.50,
+    "peso": "20g",
+    "categoria": "Juguetes Gato",
+    "imagen": "assets/images/productos/producto-8.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 9,
+    "nombre": "Collar Ajustable para Perro Pequeño",
+    "descripcion": "Collar de nylon resistente y ajustable con hebilla de liberación rápida.",
+    "precio": 7.00,
+    "peso": "50g",
+    "categoria": "Collares y Correas Perro",
+    "imagen": "assets/images/productos/producto-9.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 10,
+    "nombre": "Correa de Entrenamiento Larga para Perro (10m)",
+    "descripcion": "Correa de nylon resistente de 10 metros, ideal para adiestramiento y paseos controlados.",
+    "precio": 15.00,
+    "peso": "300g",
+    "categoria": "Collares y Correas Perro",
+    "imagen": "assets/images/productos/producto-10.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 11,
+    "nombre": "Arnés Acolchado Anti-Tirón para Perro Mediano",
+    "descripcion": "Arnés cómodo y ergonómico diseñado para distribuir la presión y evitar tirones.",
+    "precio": 22.00,
+    "peso": "400g",
+    "categoria": "Collares y Correas Perro",
+    "imagen": "assets/images/productos/producto-11.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 12,
+    "nombre": "Placa Identificación para Mascota (Redonda)",
+    "descripcion": "Placa metálica redonda para grabar datos de contacto de la mascota.",
+    "precio": 4.00,
+    "peso": "15g",
+    "categoria": "Accesorios Generales",
+    "imagen": "assets/images/productos/producto-12.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 13,
+    "nombre": "Comedero Doble de Acero Inoxidable",
+    "descripcion": "Set de dos cuencos de acero inoxidable con base antideslizante, fácil de limpiar.",
+    "precio": 12.50,
+    "peso": "500g",
+    "categoria": "Comederos y Bebederos",
+    "imagen": "assets/images/productos/producto-13.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 14,
+    "nombre": "Bebedero Automático tipo Fuente para Gatos y Perros Pequeños",
+    "descripcion": "Fuente de agua que fomenta la hidratación con agua filtrada y en movimiento.",
+    "precio": 35.00,
+    "peso": "1.2 kg",
+    "categoria": "Comederos y Bebederos",
+    "imagen": "assets/images/productos/producto-14.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 15,
+    "nombre": "Cepillo de Cerdas Suaves para Perros y Gatos",
+    "descripcion": "Cepillo ideal para el cuidado diario del pelaje, elimina pelo suelto y desenreda suavemente.",
+    "precio": 8.75,
+    "peso": "100g",
+    "categoria": "Aseo y Estética",
+    "imagen": "assets/images/productos/producto-15.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 16,
+    "nombre": "Cortauñas para Mascotas con Seguro",
+    "descripcion": "Cortauñas seguro y fácil de usar para perros y gatos.",
+    "precio": 10.00,
+    "peso": "80g",
+    "categoria": "Aseo y Estética",
+    "imagen": "assets/images/productos/producto-16.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 17,
+    "nombre": "Shampoo Antipulgas para Perros",
+    "descripcion": "Shampoo medicado para el control y eliminación de pulgas en perros.",
+    "precio": 14.00,
+    "peso": "400g",
+    "categoria": "Aseo y Estética Perro",
+    "imagen": "assets/images/productos/producto-17.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 18,
+    "nombre": "Transportador Rígido para Gato o Perro Pequeño",
+    "descripcion": "Transportador seguro y ventilado, ideal para viajes cortos o visitas al veterinario.",
+    "precio": 30.00,
+    "peso": "1.8 kg",
+    "categoria": "Transporte Mascotas",
+    "imagen": "assets/images/productos/producto-18.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 19,
+    "nombre": "Cama Redonda Suave para Gato",
+    "descripcion": "Cama acogedora y afelpada, perfecta para que los gatos se acurruquen.",
+    "precio": 17.00,
+    "peso": "700g",
+    "categoria": "Camas y Descanso",
+    "imagen": "assets/images/productos/producto-19.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 20,
+    "nombre": "Manta Térmica para Mascotas",
+    "descripcion": "Manta auto-calentable que retiene el calor corporal de la mascota.",
+    "precio": 11.50,
+    "peso": "400g",
+    "categoria": "Camas y Descanso",
+    "imagen": "assets/images/productos/producto-20.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 21,
+    "nombre": "Poste Rascador Alto con Plataforma",
+    "descripcion": "Rascador alto de sisal con múltiples niveles y una plataforma superior para descansar.",
+    "precio": 45.00,
+    "peso": "5 kg",
+    "categoria": "Rascadores Gato",
+    "imagen": "assets/images/productos/producto-21.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 22,
+    "nombre": "Casa para Perro Exterior (Tamaño Mediano)",
+    "descripcion": "Caseta resistente a la intemperie para perros medianos. Fácil de armar.",
+    "precio": 80.00,
+    "peso": "10 kg",
+    "categoria": "Casas y Refugios Perro",
+    "imagen": "assets/images/productos/producto-22.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 23,
+    "nombre": "Jaula para Hámster Completa",
+    "descripcion": "Jaula con tubo, rueda de ejercicio y comedero, ideal para hámsteres.",
+    "precio": 25.00,
+    "peso": "1.5 kg",
+    "categoria": "Hogar Pequeños Animales",
+    "imagen": "assets/images/productos/producto-23.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 24,
+    "nombre": "Viruta de Madera para Roedores (Lecho)",
+    "descripcion": "Lecho absorbente y natural para jaulas de hámster, conejos y cobayas.",
+    "precio": 6.00,
+    "peso": "1 kg",
+    "categoria": "Higiene Pequeños Animales",
+    "imagen": "assets/images/productos/producto-24.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 25,
+    "nombre": "Alimento Balanceado para Conejos",
+    "descripcion": "Pellets nutritivos formulados específicamente para conejos.",
+    "precio": 9.00,
+    "peso": "1.5 kg",
+    "categoria": "Alimento Pequeños Animales",
+    "imagen": "assets/images/productos/producto-25.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 26,
+    "nombre": "Mezcla Premium para Loros",
+    "descripcion": "Selección variada de semillas, frutos secos y pellets para loros.",
+    "precio": 18.00,
+    "peso": "1 kg",
+    "categoria": "Alimento Aves",
+    "imagen": "assets/images/productos/producto-26.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 27,
+    "nombre": "Jaula para Canarios o Periquitos",
+    "descripcion": "Jaula básica con perchas y comederos para aves pequeñas.",
+    "precio": 20.00,
+    "peso": "1 kg",
+    "categoria": "Jaulas Aves",
+    "imagen": "assets/images/productos/producto-27.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 28,
+    "nombre": "Bañera Exterior para Aves",
+    "descripcion": "Accesorio que se acopla a la jaula para que las aves puedan bañarse.",
+    "precio": 4.50,
+    "peso": "50g",
+    "categoria": "Accesorios Aves",
+    "imagen": "assets/images/productos/producto-28.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 29,
+    "nombre": "Grava de Fondo para Acuario",
+    "descripcion": "Sustrato natural para el fondo de acuarios de agua dulce.",
+    "precio": 7.50,
+    "peso": "2 kg",
+    "categoria": "Acuariofilia",
+    "imagen": "assets/images/productos/producto-29.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 30,
+    "nombre": "Acondicionador de Agua para Peces",
+    "descripcion": "Elimina cloro y metales pesados del agua del grifo para hacerla segura para los peces.",
+    "precio": 8.00,
+    "peso": "125g",
+    "categoria": "Acuariofilia",
+    "imagen": "assets/images/productos/producto-30.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 31,
+    "nombre": "Calentador Sumergible para Acuario (50W)",
+    "descripcion": "Mantiene la temperatura estable en acuarios pequeños y medianos.",
+    "precio": 16.00,
+    "peso": "200g",
+    "categoria": "Acuariofilia",
+    "imagen": "assets/images/productos/producto-31.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 32,
+    "nombre": "Filtro Interno para Acuario Pequeño",
+    "descripcion": "Filtro compacto para mantener el agua del acuario limpia y oxigenada.",
+    "precio": 21.00,
+    "peso": "300g",
+    "categoria": "Acuariofilia",
+    "imagen": "assets/images/productos/producto-32.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 33,
+    "nombre": "Set de Juguetes Variados para Gatos (5 piezas)",
+    "descripcion": "Incluye pelotas, ratones y otros juguetes interactivos para gatos.",
+    "precio": 10.00,
+    "peso": "80g",
+    "categoria": "Juguetes Gato",
+    "imagen": "assets/images/productos/producto-33.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 34,
+    "nombre": "Bolsas para Excrementos de Perro (Rollos x100)",
+    "descripcion": "Bolsas resistentes y opacas para recoger desechos de mascotas.",
+    "precio": 3.00,
+    "peso": "100g",
+    "categoria": "Higiene Paseo Perro",
+    "imagen": "assets/images/productos/producto-34.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 35,
+    "nombre": "Dispensador de Bolsas para Excrementos con Clip",
+    "descripcion": "Accesorio práctico para llevar los rollos de bolsas enganchado a la correa.",
+    "precio": 5.00,
+    "peso": "30g",
+    "categoria": "Higiene Paseo Perro",
+    "imagen": "assets/images/productos/producto-35.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 36,
+    "nombre": "Juguete Interactivo Dispensador de Comida",
+    "descripcion": "Juguete que libera premios o comida seca mientras la mascota juega con él.",
+    "precio": 15.00,
+    "peso": "250g",
+    "categoria": "Juguetes Perro",
+    "imagen": "assets/images/productos/producto-36.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+  {
+    "id": 37,
+    "nombre": "Empapadores Educativos para Perros (Pack x30)",
+    "descripcion": "Alfombrillas absorbentes para enseñar a cachorros a hacer sus necesidades.",
+    "precio": 19.00,
+    "peso": "1.5 kg",
+    "categoria": "Higiene Perro",
+    "imagen": "assets/images/productos/producto-37.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+   {
+    "id": 38,
+    "nombre": "Cepillo Quita Pelos tipo Rodillo Adhesivo",
+    "descripcion": "Rodillo con hojas adhesivas para remover pelo de mascota de ropa y muebles.",
+    "precio": 6.50,
+    "peso": "100g",
+    "categoria": "Limpieza Hogar",
+    "imagen": "assets/images/productos/producto-38.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+   {
+    "id": 39,
+    "nombre": "Spray Educador Ahuyentador para Perros y Gatos",
+    "descripcion": "Spray con olor desagradable para mascotas en zonas donde no quieres que estén.",
+    "precio": 9.00,
+    "peso": "250g",
+    "categoria": "Educación y Adiestramiento",
+    "imagen": "assets/images/productos/producto-39.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  },
+   {
+    "id": 40,
+    "nombre": "Ropa/Abrigo Impermeable para Perro Pequeño",
+    "descripcion": "Abrigo ligero e impermeable para proteger a perros pequeños de la lluvia y el frío.",
+    "precio": 20.00,
+    "peso": "150g",
+    "categoria": "Ropa y Accesorios Perro",
+    "imagen": "assets/images/productos/producto-40.png",
+    "fecha": "2025-05-12T00:00:00Z"
+  }
+]
